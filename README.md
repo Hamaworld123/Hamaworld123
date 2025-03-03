@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun 
-@font-body {
+@font-body {## Runi the terminal
 
 
